@@ -8,7 +8,7 @@ Clone the repository
 git clone <https://github.com/Himanshi018/themetoggle>
 
 Navigate to the project folder
-cd <themetoggle>
+cd themetoggle
 
 Install dependencies
 npm install
